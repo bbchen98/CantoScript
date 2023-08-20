@@ -33,4 +33,4 @@ ze^n6gun2gang2ce^dd1bedd1fai3ba6
 
 这两个目录下都有两个实例，可以看下。
 
-
+注：`CantoScript(regeneration=False)`中的regeneration表示是否重新生成。如果为True，就会重新生成所有pdf，如果为false，就会跳过已生成的歌词。
